@@ -1,8 +1,8 @@
 # cc-tron
 
-Created By: Catherine Markley and Christopher Foley
-Game: CC-TRON, similar to BM-TRON but renamed CC for "Chris and Catherine"
-Date: 12/9/17
+Created By: Catherine Markley and Christopher Foley  
+Game: CC-TRON, similar to BM-TRON but renamed CC for "Chris and Catherine"  
+Date: 12/9/17  
 
 ## Rules of the Game:
 * For our final project, we re-created a version of BM-TRON, a game similar to snake. This is a multiplayer game where each player uses a different set of four keys to control their snake. The snakes can be moved up, down, left, or right but cannot run into each other or run off the sides of the board. When the program is first run, the start menu appears. This allows the users to choose the colors of their snake, the number of players, and click the start button when ready. Next to each player choice there is a list of colors and specified keys for each player. Once the start button is clicked, the specified number of players appear on the board in a line in their specified colors. Each player must then type a key to specify their initial direction. Once all players have pressed a key, the snakes start to move. Each player can change the direction of their snake at any time by pressing their specified up, down, left, or right key. To end the round, all players except for one must die. The winning player gets a point, and whichever player gets five points first will win the game. If all the alive snakes on the board die at the same time, no player gets a point for that round. Once a player wins the game, the end menu is displayed. This shows the winning player and the final scores of every snake. It also includes “Play Again” and “Exit” buttons, which bring the user back to the start menu or exit the program. At any point in the program, if the user hits the escape key, the program will terminate. 
